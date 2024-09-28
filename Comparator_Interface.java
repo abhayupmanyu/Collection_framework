@@ -21,7 +21,7 @@ import java.util.*;
 
 }
 
-public class Comparator_Interface {
+public class Comparable_Interface {
 public static void main(String[] args) {
 	
 	ArrayList<Employee> a1=new ArrayList<Employee>();
